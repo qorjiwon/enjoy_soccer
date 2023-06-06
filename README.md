@@ -55,9 +55,9 @@ npm install
    - 라인 채널 아이디 : @561ankpu
    
 2. 채팅창에 들어가면 챗봇이 안내 문구를 전송합니다.  
-<img src="https://github.com/qorjiwon/enjoy_soccer/assets/82700743/f9bee73b-dbad-4507-8ddc-1a6bf6018980" width="300px" height="800px"></img>
+<img src="https://github.com/qorjiwon/enjoy_soccer/assets/82700743/90e9658d-7486-4d06-b59e-a4ba883e32f1" width="300px" height="800px"></img>
 3. 안내 문구에 따라 리그 번호 혹은 팀명을 입력합니다.<br>
-<img src="https://github.com/qorjiwon/enjoy_soccer/assets/82700743/9e38b7d9-9a17-4b0b-8ce2-9f45a24a1eed" width="300px" height="300px"></img><br/>  
+<img src="https://github.com/qorjiwon/enjoy_soccer/assets/82700743/d9dabe35-57ba-44f5-a60c-cb8ab95ef4ca" width="300px" height="300px"></img><br/>  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--Roadmap-->
