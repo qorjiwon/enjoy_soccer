@@ -14,8 +14,8 @@
 <!--About The Project-->
 ## About The Project
 - Line 채널 ID로 챗봇을 추가하여 사용할 수 있습니다.
-- 해당 챗봇을 통하여 경기 일정과 소속선수 그리고 팀, 득점, 도움 순위 정보를 제공합니다.
-- Papago API를 이용하여 한글과 영어 입력이 모두 지원 가능하도록 했습니다.
+- 경기 일정과 소속선수 그리고 팀, 득점, 도움 순위 정보를 제공합니다.
+- Papago API를 이용하여 한글과 영어 입력이 모두 지원 가능합니다.
 
 ### Built With
 - [Node.js](https://nodejs.org/ko/)
