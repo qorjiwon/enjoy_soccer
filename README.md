@@ -1,4 +1,4 @@
-# 축구관련 정보제공 챗봇
+# 축구 관련 정보제공 챗봇
  [![node-16.15.0](https://img.shields.io/badge/Node-16.15.0-green?logo=nodedotjs)](https://nodejs.org/ko/)
  [![express-4.18.1](https://img.shields.io/badge/Express-4.18.1-green?logo=express)](https://expressjs.com/ko/)
 <!--Table of Contents-->
